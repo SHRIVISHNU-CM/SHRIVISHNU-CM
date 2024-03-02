@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shrivishnu CM,<br>I'm Certified Full Stack developer
+I'm Shrivishnu CM,<br>I'm passionate Full Stack developer
 
 
 ## 🌐 Socials:
